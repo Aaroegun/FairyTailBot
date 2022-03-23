@@ -1,2 +1,2 @@
-install discord.py
+discord.py
 humanfriendly
