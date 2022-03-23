@@ -210,7 +210,7 @@ async def backup(ctx):
 
 
 
-for files in os.listdir(".\modules"):
+for files in os.listdir(".modules"):
     if files.endswith(".py"):
         client.load_extension(f"modules.{files[:-3]}")
         print(f"{files[:-3]} loaded sucessfully")
