@@ -1,0 +1,9 @@
+{
+    "drainReset": 86400,
+    "dailyKeysCooldown": 43200,
+    "dailyMessageLimit": 450,
+    "messagesForKey": 100,
+    "keysLimit": 6,
+    "minRollCredits": 1,
+    "maxRollCredits": 10
+}
